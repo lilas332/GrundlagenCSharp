@@ -11,6 +11,8 @@ Console.WriteLine(x-- == y & true);     //false
 Console.WriteLine(!(z == 6) | false);   //false
 Console.WriteLine((x *= -2) == z);      // true
 
+
+
 int auswahl;
 
 Console.WriteLine("(1) Umrechung von Celsius nach Kelvin");
@@ -50,4 +52,3 @@ switch (auswahl)
         Console.WriteLine("Da ist etwas schief gelaufen :/");
         break;
 }
-
