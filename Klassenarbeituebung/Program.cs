@@ -7,3 +7,7 @@ Console.WriteLine(x == y);                     //Ausgabe:False
 Console.WriteLine(x++ == y | true);            //Ausgabe:True
 Console.WriteLine(x > 3);                      //Ausgabe:True
 Console.WriteLine(--y == ++x & flag & true);   //Ausgabe:True
+
+
+
+
